@@ -8,7 +8,7 @@
   "server": {
     "ip": "totalburst.aternos.me",
     "port": 56281,
-    "version": "26.3"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
